@@ -1,0 +1,6 @@
+.venv
+data/png/*.pgn
+models/*.pth
+models/*.pkl
+models/heavy_move_to_int*
+__pycache__/
