@@ -1,9 +1,5 @@
 # chess-engine
 
-[TRY IT ONLINE](https://setday.github.io/chess-engine-online/)
-
-A big thanks to [Alexander Serkov](https://github.com/setday) for the web implementation.
-
 `models/TORCH_100EPOCHS` has shown a performance of approx. 1500 ELO during opening and middlegame.
 
 It fails after about 20 moves. A simple algorithm to detect blunders is still needed.
